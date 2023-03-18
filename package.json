@@ -5,7 +5,7 @@
   "license": "MIT",
  "scripts": {
     "start": "idoc -w",
-    "build": "idoc",
+    "build": "idoc -f",
     "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
