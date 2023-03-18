@@ -22,3 +22,8 @@ site: link-z
 ## defalut: `default`
 # -----------------------
 theme: default
+
+## Customize website icon
+# -----------------------
+favicon: ./lotus.png
+logo: ./lotus.png
