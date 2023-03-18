@@ -1,0 +1,14 @@
+{
+  "name": "link-z",
+  "version": "0.0.1",
+  "description": "link-z document.",
+  "license": "MIT",
+ "scripts": {
+    "start": "idoc -w",
+    "build": "idoc",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "idoc": "^1.21.14"
+  }
+}
