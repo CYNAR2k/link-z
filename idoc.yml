@@ -21,7 +21,7 @@ site: link-z
 ## Customize theme settings.
 ## defalut: `default`
 # -----------------------
-theme: default
+theme: themes/default
 
 ## Customize website icon
 # -----------------------
