@@ -2,7 +2,11 @@
   <img style="width:150px;" src="https://cdn.discordapp.com/attachments/556963306259218434/796045315206938634/Logotipo_Final.png" />
 </p>
 
+<!--idoc:ignore:start-->
+
 # <p align="center" style="font-size: 28px">Link-z</p>
+
+<!--idoc:ignore:end-->
 
 <br>
 
