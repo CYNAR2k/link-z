@@ -33,9 +33,9 @@
   function tocButton() {
     const tocElement = document.querySelector(`a.gototop`);
     if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-      tocElement.style.opacity = 0.5;
+      tocElement.style.opacity = 1;
     } else {
-      tocElement.style.opacity = 0;
+      tocElement.style.opacity = 1;
     }
   }
   function scrollListener(evn) {
