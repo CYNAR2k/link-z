@@ -4,7 +4,7 @@
 
 <!--idoc:ignore:start-->
 
-# <p align="center" style="font-size: 28px">Link-z</p>
+# <p align="center" style="font-size: 28px"></p>
 
 <!--idoc:ignore:end-->
 
