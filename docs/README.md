@@ -8,18 +8,7 @@
 
 <!--idoc:ignore:end-->
 
-<br>
 
-<p align="center"> 
-  <a href="#guides-"><img src="https://img.shields.io/badge/%F0%9F%93%9A%20-Guides-blue?style=for-the-badge"/></a>  
-  <a href="#windows-"><img src="https://img.shields.io/badge/%F0%9F%AA%9F-%20Windows%20-blue?style=for-the-badge"/></a> 
-  <a href="#software-"><img src="https://img.shields.io/badge/%F0%9F%94%A7-Software%20-blue?style=for-the-badge"/></a> 
-  <a href="#benchmark--performance-tools-"><img src="https://img.shields.io/badge/%F0%9F%92%BB-Benchmark%20%26%20Performance%20Tools%20-blue?style=for-the-badge"/></a>  
-  <a href="#reviews-"><img src="https://img.shields.io/badge/%F0%9F%94%8E-Reviews-blue?style=for-the-badge"/></a> 
-  <a href="#websites-"><img src="https://img.shields.io/badge/%F0%9F%8C%90-Websites-blue?style=for-the-badge"/></a>
-<!--rehype:style=text-align: center;--></p>
-
-<br>
 
 ## Guides 📚
 
