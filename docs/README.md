@@ -6,6 +6,8 @@
 
 # <p align="center" style="font-size: 28px"></p>
 
+<!--idoc:ignore:end-->
+
 <br>
 
 <p align="center"> 
@@ -19,11 +21,11 @@
 
 <br>
 
-<!--idoc:ignore:end-->
 
 
 
-## Guides 📚
+
+# Guides 📚
 
 - [PC-Tuning](https://github.com/amitxv/PC-Tuning) - Windows oriented performance, privacy and latency tuning guide
 - [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)
@@ -40,7 +42,7 @@
 - [MSI Bios Guide from Nani#7884](https://docs.google.com/document/d/1GitGsm-pdf0DBvZoS5sUP6fRpQ2-LCTBsL-7sB-UVMc)
 - [AMD CPU Tuning Guide](https://developer.amd.com/wp-content/resources/56745_0.75.pdf)
 
-## Windows 🪟
+# Windows 🪟
 
 - [Windows Official ISO Website](https://www.microsoft.com/en-us/software-download)
 - [Genuine Installation Media](https://windowsaddict.ml/readme-genuine-installation-media.html)
@@ -62,7 +64,7 @@
 - [VENTOY](https://github.com/ventoy/Ventoy) - Bootable USB
 - [RUFUS](http://rufus.ie/en/) - Bootable USB
 
-## Software 🔧
+# Software 🔧
 
 - [7-ZIP](https://www.7-zip.org/) - A file archiver, better than winrar
 - [GEEK UNINSTALLER](https://geekuninstaller.com/) - It's better than the windows one
@@ -113,7 +115,7 @@
 - [BAT TO .EXE](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
 - [ONION SHARE](https://onionshare.org/) - Open source tool that lets you share files, host websites, and chat with friends using the Tor network
 
-## Benchmark & Performance Tools 💻
+# Benchmark & Performance Tools 💻
 
 - [HWiNFO](https://www.hwinfo.com/)
 - [FRAME VIEW](https://www.nvidia.com/en-eu/geforce/technologies/frameview/)
@@ -151,7 +153,7 @@
 - [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
 - [UEFI EDITOR](https://boringboredom.github.io/UEFI-Editor/) -  Full bios unlocking tool by bored
 
-## Reviews 🔎
+# Reviews 🔎
 
 - [REVIEWS AND RATINGS](https://www.rtings.com/)
 - [GAMER NEXUS](https://www.gamersnexus.net/)
@@ -169,7 +171,7 @@
 - [PSU TIER LIST](https://cultists.network/140/psu-tier-list/)
 - [KING FARIS](https://kingfaris.co.uk/) - This site provides valuable information to help PC builders select parts and learn how to overclock
 
-## Websites 🌐
+# Websites 🌐
 
 - [MAJOR GEEKS](https://www.majorgeeks.com/)
 - [HAGGLEZON](https://www.hagglezon.com/) - Compare all amazon prices
