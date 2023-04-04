@@ -216,3 +216,5 @@
 - [BUG ME NOT](https://bugmenot.com/) - Access and share logins for websites that require you to register in order to view content
 - [Disroot](https://disroot.org/en/#services) -  Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
 - [Hyperpipe](https://music.miguelneedssleep.ml/) - Privacy respecting YouTube Music Frontend.
+- [Chosic](https://www.chosic.com/) - Discover New Music
+- [Spotalike ](https://spotalike.com/) - Create Spotify playlists with similar songs
