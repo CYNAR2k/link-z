@@ -28,18 +28,18 @@
 # Guides 📚
 
 - [PC-Tuning](https://github.com/amitxv/PC-Tuning) - Windows oriented performance, privacy and latency tuning guide
-- [Nvidia GPU Overclock Guide by Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
-- [Guide about G-SYNC](https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/)
-- [Keb's Windows 7 UEFI Only install guide](https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI)
-- [Ram Overclock Guide](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
-- [Timecard Windows Tweaking Guide & Research](https://djdallmann.github.io/GamingPCSetup/)
+- [Nvidia GPU Overclock](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
+- [G-SYNC](https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/)
+- [Windows 7 UEFI Only install guide](https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI)
+- [Ram Overclock](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
+- [Windows Tweaking Guide & Research](https://djdallmann.github.io/GamingPCSetup/)
 - [Properly Installing an Nvidia Driver](https://docs.google.com/document/d/17RLekr2-Z2KwbmkTSvq7QKcoC2UDxcq4yS3IWrLYrfg/edit)
-- [Ryzen Grub List by imribiy](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag)
-- [HDD Surival guide by Depri](https://github.com/DepriFromEarth/hdd-survival-guide)
-- [Windows 10: A guide to the updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
+- [Ryzen Grub List](https://docs.google.com/spreadsheets/d/1Jw3lfH0uRFXMxnFGdpNfRpVvrQN-MVwaE0HSKoj-Xag)
+- [HDD Surival](https://github.com/DepriFromEarth/hdd-survival-guide)
+- [Windows 10 Updates](https://www.computerworld.com/article/3199077/windows-10-a-guide-to-the-updates.html)
 - [How to setup Display Scaling](https://www.youtube.com/watch?v=50itBs-sz1w)
-- [MSI Bios Guide from Nani#7884](https://docs.google.com/document/d/1GitGsm-pdf0DBvZoS5sUP6fRpQ2-LCTBsL-7sB-UVMc)
-- [AMD CPU Tuning Guide](https://developer.amd.com/wp-content/resources/56745_0.75.pdf)
+- [MSI Bios](https://docs.google.com/document/d/1GitGsm-pdf0DBvZoS5sUP6fRpQ2-LCTBsL-7sB-UVMc)
+- [AMD CPU Tuning](https://developer.amd.com/wp-content/resources/56745_0.75.pdf)
 
 # Windows 🪟
 
@@ -57,12 +57,12 @@
 - [WINDOWS HASH CHECK](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us) • [WINDOWS HASH CHECK 2](https://www.heidoc.net/php/myvsdump.php) • [WINDOWS HASH CHECK 3](https://msdn.su/downloads/operating-systems) • [WINDOWS HASH CHECK 4](https://genuine-iso-verifier.weebly.com/)
 - [Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
 - [Windows 10 Enterprise & LTSC | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
-- [AME](https://ameliorated.info/) - Debloated windows 10 and open source focused on privacy and security
-- [ATLAS OS](https://atlasos.net/) - Windows version designed for gamers
-- [ALLKEYSHOP](https://www.allkeyshop.com/blog/catalogue/search-windows/) - Buy windows keys
-- [ACTIVATE WINDOWS FOR FREE](https://github.com/kkkgo/KMS_VL_ALL) • [ACTIVATE WINDOWS FOR FREE 2](https://github.com/massgravel/Microsoft-Activation-Scripts)
-- [VENTOY](https://github.com/ventoy/Ventoy) - Bootable USB
-- [RUFUS](http://rufus.ie/en/) - Bootable USB
+- [Ameliorated](https://ameliorated.info/) - Debloated windows 10 and open source focused on privacy and security
+- [Atlas](https://atlasos.net/) - Windows version designed for gamers
+- [All Key Shop](https://www.allkeyshop.com/blog/catalogue/search-windows/) - Buy windows keys
+- [Activate Windows for Free](https://github.com/kkkgo/KMS_VL_ALL) • [Activate Windows for Free 2](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [Ventoy](https://github.com/ventoy/Ventoy) - Bootable USB
+- [Rufus](http://rufus.ie/en/) - Bootable USB
 
 # Software 🔧
 
