@@ -28,7 +28,7 @@
 # Guides 📚
 
 - [PC-Tuning](https://github.com/amitxv/PC-Tuning) - Windows oriented performance, privacy and latency tuning guide
-- [Nvidia GPU Overclock](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
+- [NVIDIA Overclock](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
 - [G-SYNC](https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/)
 - [Windows 7 UEFI Only install guide](https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI)
 - [Ram Overclock](https://github.com/integralfx/MemTestHelper/blob/oc-guide/DDR4%20OC%20Guide.md)
@@ -53,6 +53,7 @@
 - [Microsoft Windows Iso Download Tool](https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/)
 - [Digital River - For Windows 7](https://digitalrivermirror.com/)
 - [Fido - Retail Windows ISO Download Script](https://github.com/pbatard/Fido)
+- [Out of Office Hours Media Tool](https://oofhours.com/2023/03/29/another-windows-media-creation-tool-sure-why-not/) - 
 - [UNTOUCHED WINDOWS ISOS](https://isofiles.bd581e55.workers.dev/) • [UNTOUCHED WINDOWS ISOS 2](https://soft.uclv.edu.cu/Microsoft/) • [UNTOUCHED WINDOWS ISOS 3](https://files.dog/MSDN/)  • [UNTOUCHED WINDOWS ISOS 4](https://ave9858.github.io/msdl/)
 - [WINDOWS HASH CHECK](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us) • [WINDOWS HASH CHECK 2](https://www.heidoc.net/php/myvsdump.php) • [WINDOWS HASH CHECK 3](https://msdn.su/downloads/operating-systems) • [WINDOWS HASH CHECK 4](https://genuine-iso-verifier.weebly.com/)
 - [Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
@@ -66,8 +67,9 @@
 
 # Software 🔧
 
-- [7-ZIP](https://www.7-zip.org/) - A file archiver, better than winrar
-- [GEEK UNINSTALLER](https://geekuninstaller.com/) - It's better than the windows one
+- [7-Zip](https://www.7-zip.org/) - A file archiver, better than winrar
+- [Geek Uninstaller](https://geekuninstaller.com/) - Uninstall your programs and looks for leftovers that normally windows don't remove.
+- [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) - Programs Uninstaller like Geek, but with more features and it's open-source.
 - [SNAPPY DRIVER INSTALER ORIGIN](https://www.snappy-driver-installer.org/) - Get all your pc drivers
 - [VMWARE WORKSTATION 17 PRO](https://www.vmware.com/products/workstation-pro.html)  `KEY: MC60H-DWHD5-H80U9-6V85M-8280D`
 - [FIND OLD VERSIONS OF VMWARE SOFTWARE](https://customerconnect.vmware.com/downloads/#all_products) - You need account to download. Use BUGMENOT Website to find free accounts if you don't want to create one.
@@ -116,6 +118,7 @@
 - [ONION SHARE](https://onionshare.org/) - Open source tool that lets you share files, host websites, and chat with friends using the Tor network
 - [Cider](https://cider.sh/) - A new cross-platform Apple Music experience based on Vue.js written from scratch with performance in mind.
 - [SpotX](https://github.com/spotx-cli) - A multipurpose ad-blocker for Spotify desktop application on Windows, Linux and Mac platforms. 
+
 
 # Benchmark & Performance Tools 💻
 
