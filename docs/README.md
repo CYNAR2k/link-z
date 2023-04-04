@@ -120,14 +120,14 @@
 # Benchmark & Performance Tools 💻
 
 - [HWiNFO](https://www.hwinfo.com/)
-- [FRAME VIEW](https://www.nvidia.com/en-eu/geforce/technologies/frameview/)
+- [Frame View](https://www.nvidia.com/en-eu/geforce/technologies/frameview/)
 - [OCAT](https://gpuopen.com/ocat/)
-- [FRAME TIME ANALYSIS](https://boringboredom.github.io/Frame-Time-Analysis/) - Better than CapFrameX
+- [Frame Time Analysis](https://boringboredom.github.io/Frame-Time-Analysis/) - Better than CapFrameX
 - [CapFrameX](https://github.com/CXWorld/CapFrameX)
 - [MESSAGE-SIGNALE-BASED-INTERRUPTS](https://forums.guru3d.com/threads/windows-line-based-vs-message-signaled-based-interrupts-msi-tool.378044/)
 - [PC BENCHMARK VALIDATION SOFTWARE](https://benchmate.org/)
-- [PASSMARK](https://www.passmark.com/products/performancetest)
-- [AIDA64](https://www.aida64.com/)
+- [PassMark](https://www.passmark.com/products/performancetest)
+- [Aida64](https://www.aida64.com/)
 - [INTEL MEMORY LATENCY CHECKER](https://www.intel.com/content/www/us/en/developer/articles/tool/intelr-memory-latency-checker.html)
 - [INTEL MEMORY LATENCY GUI VERSION](https://github.com/FarisR99/IMLCGui)
 - [MICROBENCHMARK GUI](https://github.com/clamchowder/MicrobenchmarksGui) - Cache and memory benchmark
@@ -154,66 +154,66 @@
 - [AUTO GPU AFFINITY](https://github.com/amitxv/AutoGpuAffinity)
 - [MOUSE TESTER](https://www.overclock.net/threads/mousetester-software-reloaded.1590569/)
 - [UEFI EDITOR](https://boringboredom.github.io/UEFI-Editor/) -  Full bios unlocking tool by bored
+- [Test Your Monitor](https://www.monitortests.com/)
+- [Test Vsync](https://www.vsynctester.com/)
 
 # Reviews 🔎
 
-- [REVIEWS AND RATINGS](https://www.rtings.com/)
-- [GAMER NEXUS](https://www.gamersnexus.net/)
-- [DISPLAY NINJA](https://www.displayninja.com/)
-- [PC MONITORS](https://pcmonitors.info/)
-- [TFT CENTRAL](https://www.tftcentral.co.uk/)
-- [TECH SPOT](https://www.techspot.com/)
-- [TECH POWER UP](https://www.techpowerup.com/)
-- [APERTURE GRILLE](https://www.aperturegrille.com/)
-- [HIGH AIRFLOW CASES](https://docs.google.com/spreadsheets/d/14Kt2cAn8a7j2sGXiPGt4GcxpR3RXVcDAx9R5c2M8680)
-- [ROCKET JUMP NINJA](https://www.rocketjumpninja.com/)
-- [BEARDED BOB](https://www.beardedbob.com/)
-- [MOUSEPAD MASTER SHEET](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww)
-- [BLUR BUSTERS](https://blurbusters.com/)
-- [PSU TIER LIST](https://cultists.network/140/psu-tier-list/)
-- [KING FARIS](https://kingfaris.co.uk/) - This site provides valuable information to help PC builders select parts and learn how to overclock
+- [Rtings](https://www.rtings.com/)
+- [Gamer Nexus](https://www.gamersnexus.net/)
+- [Display Ninja](https://www.displayninja.com/)
+- [PC Monitors](https://pcmonitors.info/)
+- [TFT Central](https://www.tftcentral.co.uk/)
+- [Tech Spot](https://www.techspot.com/)
+- [Tech Power Up](https://www.techpowerup.com/)
+- [Aperture Grille](https://www.aperturegrille.com/)
+- [High Airflow Cases](https://docs.google.com/spreadsheets/d/14Kt2cAn8a7j2sGXiPGt4GcxpR3RXVcDAx9R5c2M8680)
+- [Rocket Jump Ninja](https://www.rocketjumpninja.com/)
+- [Bearded Bob](https://www.beardedbob.com/)
+- [Mousepad Master Sheet](https://docs.google.com/spreadsheets/d/1RAnmZxDNduaGV8kB-GCvZ0MO6d9-0j9jmrU2f8dp0Ww)
+- [Blur Busters](https://blurbusters.com/)
+- [PSU Tier List](https://cultists.network/140/psu-tier-list/)
+- [King Faris](https://kingfaris.co.uk/) - This site provides valuable information to help PC builders select parts and learn how to overclock
 
 # Websites 🌐
 
-- [MAJOR GEEKS](https://www.majorgeeks.com/)
-- [HAGGLEZON](https://www.hagglezon.com/) - Compare all amazon prices
-- [VIRUS TOTAL](https://www.virustotal.com/gui/home/upload)
-- [WINDOWS 10 REDDIT](https://www.reddit.com/r/Windows10/)
-- [TENFORUMS](https://www.tenforums.com/) - Windows 10 related
-- [SEVEN FORUMS](https://www.sevenforums.com/) - Windows 7 related
+- [Major Geeks](https://www.majorgeeks.com/)
+- [Hagglezon](https://www.hagglezon.com/) - Compare all amazon prices
+- [Virus Total](https://www.virustotal.com/gui/home/upload)
+- [Windows 10 Reddit](https://www.reddit.com/r/Windows10/)
+- [Ten forums](https://www.tenforums.com/) - Windows 10 related
+- [Seven Forums](https://www.sevenforums.com/) - Windows 7 related
 - [My digital life](https://forums.mydigitallife.net/) - Tech Forum
 - [Discord text formatting](https://www.writebots.com/discord-text-formatting)
-- [PCPARTPICKER](https://pcpartpicker.com/) - Build your PC
-- [REDDIT PC STUFF SALES](https://www.reddit.com/r/buildapcsales/)
-- [EVERYNOISE](https://everynoise.com/) - Find new music and artists
-- [ARCHIEVE](https://archive.org/) - Library of millions of free books, movies, software, music, websites, and more
-- [WALLPAPERS](https://wallhaven.cc/)
-- [ADBLOCK TEST](https://adblock-tester.com/)
-- [LO4D - Free Software download](https://www.lo4d.com/)
-- [TWEAK TOWN - PC News Website](https://www.tweaktown.com/)
-- [TELL.WTF](https://tell.wtf/) - Icons website
-- [TEST VSYNC](https://www.vsynctester.com/)
-- [SHORTLYAI](https://shortlyai.com/) - AI Write texter
-- [FIND MOVIES](https://agoodmovietowatch.com/)
-- [TEST YOUR MONITOR](https://www.monitortests.com/)
-- [ALTERNATIVE TO](https://alternativeto.net/) - Find alternative programs
-- [SOURCEFORGE](https://sourceforge.net/) - Compare, Download & Develop Open Source & Business Software
-- [WINDOWS SERVICE LIST](http://batcmd.com/windows/10/services/)
-- [WINDOWS REGISTRY](https://admx.help/)
-- [UDEMY FREE COURSES](https://udemyfreecourses.org/)
-- [TINYWOW](https://tinywow.com/) - Convert Files
-- [LOFI GENERATOR](https://lofigenerator.com/) 
-- [OVER API](https://overapi.com/) - Collectin all the cheat sheets
-- [PRIVACY.SEXY](https://privacy.sexy/) - Web tool to generate scripts for enforcing privacy & security
+- [PC Part Picker](https://pcpartpicker.com/) - Build your PC
+- [Reddit PC Stuff Sales](https://www.reddit.com/r/buildapcsales/)
+- [Every Noise](https://everynoise.com/) - Find new music and artists
+- [Archieve](https://archive.org/) - Library of millions of free books, movies, software, music, websites, and more
+- [Wallhaven](https://wallhaven.cc/) - Find awesome wallpapers
+- [Adblock Test](https://adblock-tester.com/) - Test your adblocker
+- [LO4D](https://www.lo4d.com/) - Free Software download
+- [Tweak Town](https://www.tweaktown.com/) - PC News Website
+- [Tell.Wtf](https://tell.wtf/) - Icons website
+- [Shortly Ai](https://shortlyai.com/) - AI Write texter
+- [Find Movies](https://agoodmovietowatch.com/)
+- [Alternative To](https://alternativeto.net/) - Find alternative programs
+- [Sourceforge](https://sourceforge.net/) - Compare, Download & Develop Open Source & Business Software
+- [Windows Service List](http://batcmd.com/windows/10/services/)
+- [Windows Registry](https://admx.help/)
+- [Udemy Free Courses](https://udemyfreecourses.org/)
+- [Tinywow](https://tinywow.com/) - Convert Files
+- [Lofi Generator](https://lofigenerator.com/) 
+- [Over Api](https://overapi.com/) - Collectin all the cheat sheets
+- [Privacy.Sexy](https://privacy.sexy/) - Web tool to generate scripts for enforcing privacy & security
 - [Free-mp3-download](https://free-mp3-download.net/) - Free MP3 and FLAC 320kpbs Downloads
-- [RENTRY](https://rentry.co/) - Markdown pastebin service with preview, custom urls and editing
-- [SNAP DROP](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby
-- [COLEMAK CLUB](https://gnusenpai.net/colemakclub/) - A free, easy way to learn to touch type custom keyboard layouts
-- [WHATS THE DATA](https://justwhatsthedata.github.io/) - A directory of information for you to acknowledge the amount of data that web services gather from you
-- [JUST DELETE ME](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services
-- [LIBREX](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google and popular torrent sites
-- [BE PARANOID](https://beparanoid.de/) - Privacy stuff related
-- [BUG ME NOT](https://bugmenot.com/) - Access and share logins for websites that require you to register in order to view content
+- [Rentry](https://rentry.co/) - Markdown pastebin service with preview, custom urls and editing
+- [Snap Drop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby
+- [Colemak Club](https://gnusenpai.net/colemakclub/) - A free, easy way to learn to touch type custom keyboard layouts
+- [Whats The Data](https://justwhatsthedata.github.io/) - A directory of information for you to acknowledge the amount of data that web services gather from you
+- [Just Delete Me](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services
+- [Librex](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google and popular torrent sites
+- [Be Paranoid](https://beparanoid.de/) - Privacy stuff related
+- [Bug Me Not](https://bugmenot.com/) - Access and share logins for websites that require you to register in order to view content
 - [Disroot](https://disroot.org/en/#services) -  Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
 - [Hyperpipe](https://music.miguelneedssleep.ml/) - Privacy respecting YouTube Music Frontend.
 - [Chosic](https://www.chosic.com/) - Discover New Music
