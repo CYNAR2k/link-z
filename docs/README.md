@@ -28,7 +28,6 @@
 # Guides 📚
 
 - [PC-Tuning](https://github.com/amitxv/PC-Tuning) - Windows oriented performance, privacy and latency tuning guide
-- [Latency Guide by Calypto](https://docs.google.com/document/d/1c2-lUJq74wuYK1WrA_bIvgb89dUN0sj8-hO3vqmrau4)
 - [Nvidia GPU Overclock Guide by Cancerogeno](https://docs.google.com/document/d/14ma-_Os3rNzio85yBemD-YSpF_1z75mZJz1UdzmW8GE)
 - [Guide about G-SYNC](https://blurbusters.com/gsync/gsync101-input-lag-tests-and-settings/)
 - [Keb's Windows 7 UEFI Only install guide](https://docs.google.com/document/d/1sZ8ctpR3azpD9GqYz1KXbdCBjJ31eNCY0G4GT3u3sKI)
@@ -46,17 +45,18 @@
 
 - [Windows Official ISO Website](https://www.microsoft.com/en-us/software-download)
 - [Genuine Installation Media](https://windowsaddict.ml/readme-genuine-installation-media.html)
-- [HEIDOC](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool)
-- [TECH BENCH](https://tb.rg-adguard.net/public.php)
-- [THE EYE](https://the-eye.eu/public/MSDN/)
-- [UNIVERSAL MEDIA CREATION TOOL](https://www.majorgeeks.com/files/details/universal_mediacreationtool.html)
-- [UNIFIED UPDATE PLATFORM](https://uup.rg-adguard.net/) • [DUMP](https://uupdump.net/)
-- [KICH HOAT BAN QUYEN](https://docs.google.com/spreadsheets/d/14-D4tIlFp9APP0OOvQBRXvfLOYC447UygywenX5LXfo/edit#gid=960687212)
-- [MICROSOFT WINDOWS ISO DOWNLOAD TOOL](https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/)
-- [DIGITAL RIVER - FOR WINDOWS 7](https://digitalrivermirror.com/)
-- [FIDO - RETAIL WINDOWS ISO DOWNLOAD SCRIPT](https://github.com/pbatard/Fido)
-- [UNTOUCHED WINDOWS ISOS](https://isofiles.bd581e55.workers.dev/) • [UNTOUCHED WINDOWS ISOS 2](https://soft.uclv.edu.cu/Microsoft/) • [UNTOUCHED WINDWOS ISOS 3](https://files.dog/MSDN/)
+- [Heidoc](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-iso-download-tool)
+- [Tech Bench](https://tb.rg-adguard.net/public.php)
+- [The Eye](https://the-eye.eu/public/MSDN/)
+- [Universal Media Creation Tool](https://www.majorgeeks.com/files/details/universal_mediacreationtool.html)
+- [Unified Update Platform - UUP](https://uup.rg-adguard.net/) • [DUMP](https://uupdump.net/)
+- [Microsoft Windows Iso Download Tool](https://forums.guru3d.com/threads/microsoft-windows-iso-download-tool.407691/)
+- [Digital River - For Windows 7](https://digitalrivermirror.com/)
+- [Fido - Retail Windows ISO Download Script](https://github.com/pbatard/Fido)
+- [UNTOUCHED WINDOWS ISOS](https://isofiles.bd581e55.workers.dev/) • [UNTOUCHED WINDOWS ISOS 2](https://soft.uclv.edu.cu/Microsoft/) • [UNTOUCHED WINDOWS ISOS 3](https://files.dog/MSDN/)  • [UNTOUCHED WINDOWS ISOS 4](https://ave9858.github.io/msdl/)
 - [WINDOWS HASH CHECK](https://files.rg-adguard.net/version/f0bd8307-d897-ef77-dbd6-216fefbe94c5?lang=en-us) • [WINDOWS HASH CHECK 2](https://www.heidoc.net/php/myvsdump.php) • [WINDOWS HASH CHECK 3](https://msdn.su/downloads/operating-systems) • [WINDOWS HASH CHECK 4](https://genuine-iso-verifier.weebly.com/)
+- [Windows Server 2022 | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022)
+- [Windows 10 Enterprise & LTSC | Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/download-windows-10-enterprise)
 - [AME](https://ameliorated.info/) - Debloated windows 10 and open source focused on privacy and security
 - [ATLAS OS](https://atlasos.net/) - Windows version designed for gamers
 - [ALLKEYSHOP](https://www.allkeyshop.com/blog/catalogue/search-windows/) - Buy windows keys
@@ -114,6 +114,8 @@
 - [NTFS MAC](https://www.paragon-software.com/home/ntfs-mac) - Write files to Microsoft NTFS drives on your Mac
 - [BAT TO .EXE](https://www.majorgeeks.com/files/details/bat_to_exe_converter.html)
 - [ONION SHARE](https://onionshare.org/) - Open source tool that lets you share files, host websites, and chat with friends using the Tor network
+- [Cider](https://cider.sh/) - A new cross-platform Apple Music experience based on Vue.js written from scratch with performance in mind.
+- [SpotX](https://github.com/spotx-cli) - A multipurpose ad-blocker for Spotify desktop application on Windows, Linux and Mac platforms. 
 
 # Benchmark & Performance Tools 💻
 
@@ -212,3 +214,5 @@
 - [LIBREX](https://github.com/hnhx/librex) - A privacy respecting free as in freedom meta search engine for Google and popular torrent sites
 - [BE PARANOID](https://beparanoid.de/) - Privacy stuff related
 - [BUG ME NOT](https://bugmenot.com/) - Access and share logins for websites that require you to register in order to view content
+- [Disroot](https://disroot.org/en/#services) -  Disroot is a platform providing online services based on principles of freedom, privacy, federation and decentralization.
+- [Hyperpipe](https://music.miguelneedssleep.ml/) - Privacy respecting YouTube Music Frontend.
